@@ -1,0 +1,20 @@
+[
+    {
+        "file": "C:/Users/Thanh Thao/PycharmProjects/PythonProject/gaussian_average.jpg",
+        "results": [
+            {
+                "label": "jigsaw_puzzle",
+                "confidence": 0.226101353764534
+            }
+        ]
+    },
+    {
+        "file": "C:/Users/Thanh Thao/PycharmProjects/PythonProject/lena.png",
+        "results": [
+            {
+                "label": "sombrero",
+                "confidence": 0.04815613105893135
+            }
+        ]
+    }
+]
