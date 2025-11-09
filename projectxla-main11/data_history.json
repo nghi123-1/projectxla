@@ -1,0 +1,140 @@
+[
+    {
+        "file": "C:/Users/Thanh Thao/PycharmProjects/PythonProject/gaussian_average.jpg",
+        "results": [
+            {
+                "label": "jigsaw_puzzle",
+                "confidence": 0.226101353764534
+            }
+        ]
+    },
+    {
+        "file": "C:/Users/Thanh Thao/PycharmProjects/PythonProject/lena.png",
+        "results": [
+            {
+                "label": "sombrero",
+                "confidence": 0.04815613105893135
+            }
+        ]
+    },
+    {
+        "file": "D:/Python/istockphoto-92890281-612x612.jpg",
+        "results": [
+            {
+                "label": "magnetic_compass",
+                "confidence": 0.3512943387031555
+            },
+            {
+                "label": "waffle_iron",
+                "confidence": 0.828196108341217
+            },
+            {
+                "label": "shield",
+                "confidence": 0.40050745010375977
+            },
+            {
+                "label": "bolo_tie",
+                "confidence": 0.19749261438846588
+            },
+            {
+                "label": "analog_clock",
+                "confidence": 0.2757683992385864
+            },
+            {
+                "label": "puck",
+                "confidence": 0.29960742592811584
+            },
+            {
+                "label": "shield",
+                "confidence": 0.540595531463623
+            },
+            {
+                "label": "stopwatch",
+                "confidence": 0.6178560853004456
+            }
+        ]
+    },
+    {
+        "file": "D:/Python/860.jpg",
+        "results": [
+            {
+                "label": "spindle",
+                "confidence": 0.09819920361042023
+            }
+        ]
+    },
+    {
+        "file": "D:/Python/860.jpg",
+        "results": [
+            {
+                "label": "spindle",
+                "confidence": 0.09819920361042023
+            }
+        ]
+    },
+    {
+        "file": "D:/Python/860.jpg",
+        "results": [
+            {
+                "label": "colobus",
+                "confidence": 0.280536025762558
+            },
+            {
+                "label": "velvet",
+                "confidence": 0.3133876919746399
+            },
+            {
+                "label": "chime",
+                "confidence": 0.22814123332500458
+            },
+            {
+                "label": "pick",
+                "confidence": 0.30072924494743347
+            },
+            {
+                "label": "digital_clock",
+                "confidence": 0.2650374174118042
+            },
+            {
+                "label": "Windsor_tie",
+                "confidence": 0.09903693199157715
+            },
+            {
+                "label": "combination_lock",
+                "confidence": 0.0993189662694931
+            },
+            {
+                "label": "digital_clock",
+                "confidence": 0.6393948197364807
+            },
+            {
+                "label": "laptop",
+                "confidence": 0.17928862571716309
+            },
+            {
+                "label": "modem",
+                "confidence": 0.08938905596733093
+            },
+            {
+                "label": "frying_pan",
+                "confidence": 0.2546640932559967
+            },
+            {
+                "label": "digital_clock",
+                "confidence": 0.33500754833221436
+            },
+            {
+                "label": "digital_clock",
+                "confidence": 0.9988779425621033
+            },
+            {
+                "label": "nail",
+                "confidence": 0.04328983277082443
+            },
+            {
+                "label": "rugby_ball",
+                "confidence": 0.22669531404972076
+            }
+        ]
+    }
+]
